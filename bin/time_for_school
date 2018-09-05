@@ -36,6 +36,3 @@ extra_knowledge = avi.teach
 carol.learn(extra_knowledge)
 
 puts "Carol learned extra important knowledge from Avi"
-
-puts steve.knowledge
-puts carol.knowledge
