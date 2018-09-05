@@ -21,6 +21,10 @@ puts "Steve just learned this important knowledge: '#{steve.knowledge.first}' fr
 
 #jim = User.new
 #jim.first_name = "Jim"
-jim.last_name = "Schatz"
+#jim.last_name = "Schatz"
+#jim.learn
 
-jim.learn
+more_knowledge = avi.teach
+steve.learn(more_knowledge
+
+puts "Steve learned more important knowledge: '#{steve.knowledge.second}' from Avi
