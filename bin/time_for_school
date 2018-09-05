@@ -24,3 +24,11 @@ steve.learn(more_knowledge)
 
 puts "Steve learned more important knowledge from Avi"
 
+carol = Student.new
+carol.first_name = "Carol"
+carol.last_name = "Bradsen"
+
+carol.learn(some_knowledge)
+
+extra_knowledge = avi.teach
+carol.learn(extra_knowledge)
