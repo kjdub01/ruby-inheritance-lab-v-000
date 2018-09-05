@@ -30,8 +30,12 @@ carol.last_name = "Bradsen"
 
 carol.learn(some_knowledge)
 
+puts "Carol just learned this important knowledge: '#{steve.knowledge.first}' from Avi"
+
 extra_knowledge = avi.teach
 carol.learn(extra_knowledge)
+
+puts "Carol learned extra important knowledge from Avi"
 
 puts steve.knowledge
 puts carol.knowledge
