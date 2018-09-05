@@ -36,3 +36,5 @@ extra_knowledge = avi.teach
 carol.learn(extra_knowledge)
 
 puts "Carol learned extra important knowledge: '#{carol.knowledge.last}' from Avi"
+
+
