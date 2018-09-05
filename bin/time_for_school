@@ -32,3 +32,6 @@ carol.learn(some_knowledge)
 
 extra_knowledge = avi.teach
 carol.learn(extra_knowledge)
+
+puts steve.knowledge
+puts carol.knowledge
